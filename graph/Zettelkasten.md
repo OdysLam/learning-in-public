@@ -1,0 +1,3 @@
+- ## Introduction
+    - [[external resources]]
+        - https://zettelkasten.de/introduction/

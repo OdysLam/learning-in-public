@@ -1,0 +1,12 @@
+- ### Metadata
+    - Type: [[tooling]]
+    - Domain: [[Learning how to Learn]]
+- ## Insights
+    - {{[[video]]: https://www.youtube.com/watch?v=A_7_8AAkV7M}}
+- ## Insights
+- ## #kanban
+    - {{[[kanban]]}}
+        - [[project TODO]]
+        - [[project DOING]]
+        - [[project DONE]]
+- [[external resources]]

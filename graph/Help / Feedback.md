@@ -1,0 +1,10 @@
+- ## Engage
+    - __Platforms__
+        - **Discord:** https://discord.gg/vJ5FRbQg
+            - __Note__: Ideally, I would like to join an already existing community. chat groups fatigue is real and I don't want to double down on the fragmentation of people's time/communities. That being said, I am unaware of relevant communities. If you happen to know, please hit me up.
+        - **Twitter:** https://twitter.com/odysseas_lam
+    - At this point, the best contribution you can do, apart from content, is feedback.  Just hit me up in **Discord** or **Twitter**. 
+    - If you want to contribute content, just hit me up on Discord and let's chat. Roam Research does not offer a lot of colab tools (e.g like GitHub PRs), so we will need to work this out. 
+        - Don't worry, you will get full recognition for the content you will contribute. I want this to be a shared effort. ✌️
+- ## Tip
+    - At this point, if you are **that** excited that you are willing to spend $ (or $DOGE for that matter),  I would prefer if you just messaged me with your thoughts. What you liked and where I can improve this. 

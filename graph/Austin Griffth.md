@@ -1,0 +1,3 @@
+- Type: #person
+- #twitter https://twitter.com/austingriffith
+- website: https://austingriffith.com/

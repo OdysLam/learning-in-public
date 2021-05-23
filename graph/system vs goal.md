@@ -1,0 +1,3 @@
+- Source: https://jamesclear.com/goals-systems by [[james clear]]. Also noted in [[Atomic Habits]]
+- Examples of system vs Goal
+    - > If you’re an entrepreneur, your goal might be to build a million-dollar business. Your system is how you test product ideas, hire employees, and run marketing campaigns.

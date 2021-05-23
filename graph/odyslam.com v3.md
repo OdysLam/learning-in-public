@@ -1,0 +1,36 @@
+- Type: #project
+- {{[[kanban]]}}
+    - [[project TODO]] 
+        - blog posts list page
+        - IMP about page
+        - IMP Footer component
+        - IMP Header Component
+        - IMP setup [[Cloudflare]] pages
+        - IMP setup CI/CD with cloudflare pages
+        - IMP setup DNS, SSL on cloudflare
+        - IMP upload blog posts
+        - RES different comments implementations
+        - IMP add comments functionality
+        - IMP search functionality
+        - RES into implementing side notes: https://www.gwern.net/Sidenotes
+        - RES into implementing automatic wikipedia linking
+        - IMP book list page with status and all.
+        - IMP removal of remark-prism-js modules and configuration files, since I am using mdx files.'
+        - IMP  Orbit into website and create a react component https://docs.withorbit.com/
+        - RES into adding a visualization/ticker for bitcoin somewhere. More inside this block
+        - IMP - btc chart : https://www.tradingview.com/widget/symbol-overview/
+    - [[project DOING]]
+        - IMP blog posts frontmatter + queries for categories, year
+        - IMP CTA component 
+        - IMP sidenav component
+        - IMP layout for blog posts
+    - [[project REVIEW]]
+        - IMP IMG component (zoom on click, etc)
+    - [[project DONE]]
+        - mainBody component -- Removed
+        - Create project skeleton
+        - [[Figma]] [[mockup]] [[wireframe]]
+            - https://www.figma.com/file/J5lxOkjmzzLkQ1TpWSTmNs/Untitled?node-id=0%3A1
+        - dependency sketch, skeleton 
+    - [[project NEXT ITERATION]]
+        - Interlinking between posts, integration with Roam

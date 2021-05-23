@@ -1,0 +1,40 @@
+- Ontology is such a fancy word. This page is simply an overview of how the graph is structured, as I have tried to create __templates__ for different types of pages. 
+    - These templates will change all the time as feedback is assimilated. 
+- **Note:** This is also a __bit__ aspirational. If I don't conform, don't judge too harshly 😅
+- ## Types
+    - [[project]]
+        - What: A project page.  It can be both a [[Locations of Knowledge]] or a particular project, e.g [[odyslam.com v3]]
+        - #kanban 
+            - It's the main way to store items that I need to go through for that particular project. Ideally, we would like to group items into releases, but at this moment this complexity is not yet required. 
+            - We have 3 different groups [[project TODO]], [[project DOING]], [[project DONE]]
+                - Items are divided into `IMP:<item_name>` and `RE:<item_name>`
+                    - IMP: implement something. We have already decided to do this. 
+                    - RE: Research into something. We don't know yet if we will implement it or not. 
+        - [[project system]]
+            - Define the system that supports this project. Systems are much more effective than goals, because they define a habitual behaviour. [[system vs goal]]
+        - [[project brainstorming]]
+            - A general category to write thoughts and ideas for a particular project. After refinement, they should be going into the #kanban as items
+        - [[project NEXT ITERATION]]
+            - In this group, I put all the items that I know I want to do, but in the next phase of the project. When I finish with the current #kanban, I will simply move these items to [[project TODO]]
+    - [[Locations of Knowledge]]
+        - Every "Learn X" page:
+            - Metadata: What is location is about
+                - __Type:__
+                    - Is it a [[tooling]] or an entire [[domain]]
+                - __Domain:__
+                    - Can we group this into a higher order [[domain]] ? 
+                        - example: [[Learn Solidity]] is in the domain of [[Learn Ethereum]]
+                - __Introduction__
+                - __How to read this category__
+                - __Insights__
+                    - This is the primary category. A set of curated insights about this category. Usually, they are complementary to some original [[external resources]]. They are the gotchas that will accelerate your learning 10x.
+                    - Every insight is usually paired with some links and the tag [[external resources]]. 
+                - __external resources:__
+                    - This group is for external resources that are not tied to a particular insight, but are useful to have around.
+                    - All the links to external resources are tagged with [[external resources]].
+                - __capstone project;__
+                    - A capstone project solidifies the understanding of the subject. 
+                - __Roadmap:__
+                    - A fancy way to say #kanban
+                - __Learning Log:__
+                    - Raw notes that I take as I learn the subject. These notes are curated and refined into __insights.__

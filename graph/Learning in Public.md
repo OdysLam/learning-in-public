@@ -1,0 +1,40 @@
+- Type: #project #meta
+- [[project description]]
+    - **This is a meta-project, as it concerns this very platform that you are reading**. Here I strategize and plan the development and evolution of this project, both the graph and the relevant artifacts (e.g blog posts). Everything in public. 
+- [[project brainstorming]]
+    - {{[[TODO]]}} What about adding a start/end date in every #kanban item, so that I can keep track of when I start and finish each item?
+- [[project value]]
+    - Gotchas and insights that are result of **hands on experience**, when things don’t go as planned in the tutorial
+    - Tutorial about subjects that they are interested about, with technical value (how to do X). 
+    - Introduction to a subject with curated resources to continue their work.
+    - [[project future]] Study group of people who are reading/researching same domain/subject
+    - Self-improvement. Meta knowledge, Learn about learning systems of others and how to learn. 
+        - This is not the same as when the subject is productivity itself. This is about observing the systems of a person who is learning about whatever subject.
+    - **Entertainment, not a dry tutorial. Memes, music, and pop culture interweaved into the project.**
+- [[project persona]]
+    - Person who is interested in breaking into the domain specific subject. He is young and still learning the ropes
+    - A person who is tired of learning around and is searching for their tribe. 
+    - People who want to learn but they keep procrastinating, so they ease their thought by following something they deem productive (like productivity YouTube channels). 
+- [[project system]]
+    - [[project system]]
+        - [[project version]] Alpha
+            - Knowledge graph: Roam Research
+            - Blogging platform: Dev.to, twitter
+            - Channels: Twitter, Reddit, Twitch
+                - Groups: RR slack channel, Athens research channel, domain specific channels
+            - fleeting notes as I learn about subjects, raw. As I do now.
+            - Weekly update post, curated notes from fleeting notes. 
+                - Update post is a post. 
+                - Curated notes is like changelog
+- #kanban 
+    - {{[[kanban]]}}
+        - [[project TODO]]
+            - IMP [[Introductory post on Solidity]]
+            - IMP page about the system that I am following
+        - [[project DOING]]
+            - IMP [[Learning in Public intro post]]
+        - [[project REVIEW]]
+            - IMP add project system to [[Glossary / Ontology]]
+            - IMP [[Glossary / Ontology]]
+        - [[project DONE]]
+- 

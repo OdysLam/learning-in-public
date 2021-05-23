@@ -1,0 +1,3 @@
+- Type: #person
+- #twitter:  https://twitter.com/dabit3
+- works at [[graph protocol]]

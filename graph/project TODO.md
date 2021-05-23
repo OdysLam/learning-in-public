@@ -1,0 +1,3 @@
+- [[Glossary / Ontology]]
+    - RE: Research something. Not sure if I will implement it or not. 
+    - IMP: Already decided to implement it. The item is the implementation itself. 
